@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Lato';
+   src: url('./Lato-Regular.ttf') format('ttf');
+   font-weight: 600;
+   font-style: normal;
+}
+.hello {
+   color: red;
+   font-family: 'Lato';
+}
+.imgDiv {
+   width: 300px;
+   height: 100px;
+}
